@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="10 10 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50px;
+        fill: #fff;
+        font-family: "Swagger TTF";
+      }
+    </style>
+  </defs>
+  <text id="_" data-name="ㅁ" class="cls-1" x="14.582" y="54.74">ㅁ</text>
+  <text id="_2" data-name="ㄴ" class="cls-1" x="14.582" y="80.74">ㄴ</text>
+  <text id="_3" data-name="ㅈ" class="cls-1" transform="translate(37.806 55.316) scale(1.063 0.969)">ㅈ</text>
+  <text id="_4" data-name="ㅇ" class="cls-1" transform="translate(37.806 81.393) scale(1.063 0.989)">ㅇ</text>
+</svg>

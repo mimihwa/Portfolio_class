@@ -1,0 +1,36 @@
+
+#main{
+    width: 100vw;
+    height: 100vh;
+    background: #111;
+    max-width: 100%;
+    .main_m{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        .container{
+            width: 100%;
+            max-width: 1200px;
+            padding: 60px;
+            position: relative;
+            perspective: 1000px;
+            .title{
+                text-align: center;
+                font-size: 80px;
+                font-family: 'Anton', sans-serif;
+                transition: .3s ease-out;
+                perspective: 500px;
+                color: #fff;
+                span{
+                    font-family: 'Dancing Script', cursive;
+                    font-size: 100px;
+                    color: #f8ba22;
+                    position: relative;
+                    top: -100px;
+                    &:hover{text-shadow: 0 0 50px #fff1cd;}
+                }
+            }
+        }
+    }
+}
